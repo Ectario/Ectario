@@ -1,8 +1,13 @@
-### Welcome 👋
+## Welcome 👋
+
+### CTF Player w/ MadeInFrance & Phreaks 2600
+
+I participate in CTF competitions, focusing on cybersecurity and offensive security challenges with these two teams.
+
+### Some notes
 
 - 🎓 I’m currently studying on computer science
 - 🌱 Passion for cybersecurity and learning it
-- CTF Player w/ MadeInFrance & Phreaks 2600
 - ⚡ Fun fact: 10=2 if you ask the binaries... 
 
 
