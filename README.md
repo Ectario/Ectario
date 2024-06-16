@@ -2,6 +2,7 @@
 
 - 🎓 I’m currently studying on computer science
 - 🌱 Passion for cybersecurity and learning it
+- CTF Player w/ MadeInFrance & Phreaks 2600
 - ⚡ Fun fact: 10=2 if you ask the binaries... 
 
 
