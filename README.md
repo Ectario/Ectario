@@ -4,6 +4,16 @@
 
 I participate in CTF competitions, focusing on cybersecurity and offensive security challenges with these two teams.
 
+**_Some CTF-like platforms i've played on:_**
+- [Nodeguardian](https://nodeguardians.io/character/ectario) ~ Hall Of Fame
+- [CryptoHack](https://cryptohack.org/user/ectario/) ~ Happy to have contributed as the ZKP section co-creator
+- [RootMe](https://www.root-me.org/Ectario?inc=info&lang=en) ~ Some web stuff done alongside portswigger courses
+
+
+### Security Research
+
+Doing vulnerability research on blockchain ecosystems alongside some cryptography stuff @FuzzingLabs.
+
 ### Some notes
 
 - 🎓 I’m currently studying on computer science
