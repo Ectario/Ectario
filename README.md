@@ -14,10 +14,10 @@ I participate in CTF competitions, focusing on cybersecurity and offensive secur
 
 Doing vulnerability research on blockchain ecosystems alongside some cryptography stuff @FuzzingLabs.
 
-### Some notes
+### Some lil' notes
 
 - 🎓 I’m currently studying on computer science
-- 🌱 Passion for cybersecurity and learning it
+- 🌱 Web3 & Cryptanalysis enthusiast
 - ⚡ Fun fact: 10=2 if you ask the binaries, but same happen if you ask ℤ/2ℤ... 
 
 
