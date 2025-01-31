@@ -18,7 +18,7 @@ Doing vulnerability research on blockchain ecosystems alongside some cryptograph
 
 - 🎓 I’m currently studying on computer science
 - 🌱 Web3 & Cryptanalysis enthusiast
-- ⚡ Fun fact: 10=2 if you ask the binaries, but same happen if you ask ℤ/2ℤ... 
+- ⚡ Fun fact: 10=2 if you ask the binaries, but same happen if you ask ℤ/8ℤ... 
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ectario&theme=gruvbox)](https://github.com/Ectario/github-readme-stats)  
