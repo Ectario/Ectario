@@ -1,8 +1,8 @@
 ## Welcome 👋
 
-### CTF Player w/ MadeInFrance & Phreaks 2600
+### CTF Player w/ Valgrind
 
-I participate in CTF competitions, focusing on cybersecurity and offensive security challenges with these two teams.
+Jumping in with Valgrind for CTFs when time allows (focus blockchain & crypto). Formerly with MadeInFrance and Phreaks 2600.
 
 **_Some CTF-like platforms i've played on:_**
 - [Nodeguardian](https://nodeguardians.io/character/ectario) ~ Hall Of Fame
@@ -16,7 +16,7 @@ Doing vulnerability research on blockchain ecosystems alongside some cryptograph
 
 ### Some lil' notes
 
-- 🎓 I’m currently studying on computer science
+- 🎓 Student forever..
 - 🌱 Web3 & Cryptanalysis enthusiast
 - ⚡ Fun fact: 10=2 if you ask the binaries, but same happen if you ask ℤ/8ℤ... 
 
