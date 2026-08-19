@@ -6,14 +6,27 @@ Jumping in with Valgrind for CTFs when time allows (focus blockchain & crypto). 
 
 **_Some CTF-like platforms i've played on:_**
 - [OnlyPwner](https://onlypwner.xyz/leaderboard) ~ Full cleared :fire:
-- [Nodeguardian](https://nodeguardians.io/character/ectario) ~ Hall Of Fame
+- [Nodeguardian](https://web.archive.org/web/20250219185115/https://nodeguardians.io/hall-of-fame) ~ Hall Of Fame
 - [CryptoHack](https://cryptohack.org/user/ectario/) ~ Happy to have contributed as the ZKP section co-creator
 - [RootMe](https://www.root-me.org/Ectario?inc=info&lang=en) ~ Some web stuff done alongside portswigger courses (& some Game-Hacking in reverse for the lolz)
 
 
-### Security Research
+### Selected contributions
 
-Doing vulnerability research on blockchain ecosystems alongside some cryptography stuff @FuzzingLabs.
+**Security**  
+[CVE-2026-41648](https://github.com/lxc/incus/security/advisories/GHSA-67wx-r9xr-x75x) ·
+[CVE-2026-41684](https://github.com/lxc/incus/security/advisories/GHSA-x5r6-jr56-89pv) ·
+[CVE-2026-41647](https://github.com/lxc/incus/security/advisories/GHSA-fwj8-62r8-8p8m) ·
+[Anza / Agave critical](https://fuzzinglabs.com/solana-agave-vm-crypto-syscall-vulnerability/) ·
+Immunefi BBH
+
+**OSS & Tooling**  
+[Foundry](https://github.com/foundry-rs/foundry/commit/d72d14bedcf413d77f321c36090a76642f85e0af) ·
+[sol-azy](https://github.com/FuzzingLabs/sol-azy) ·
+[daml-viewer](https://github.com/FuzzingLabs/daml-viewer)
+
+**CTF & Research**  
+[Articles & write-ups](https://github.com/Ectario/articles-and-wu)
 
 ### Some lil' notes
 
