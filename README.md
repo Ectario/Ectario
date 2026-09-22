@@ -34,7 +34,7 @@ Immunefi BBH
 - 🌱 Web3 & Cryptanalysis enthusiast
 - ⚡ Fun fact: 10=2 if you ask the binaries, but same happen if you ask ℤ/8ℤ... 
 
-### Contact
+### Contact (Technical Questions || Private Audits)
 
 Ectario at proton.me
 
