@@ -26,7 +26,7 @@ Immunefi BBH
 [daml-viewer](https://github.com/FuzzingLabs/daml-viewer)
 
 **CTF & Research**  
-[Articles & write-ups](https://github.com/Ectario/articles-and-wu)
+[Articles & write-ups](https://ectario.github.io/)
 
 ### Some lil' notes
 
