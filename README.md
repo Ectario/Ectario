@@ -14,12 +14,13 @@ Jumping in with Valgrind for CTFs when time allows (focus blockchain & crypto). 
 ### Selected contributions
 
 **Security**  
-[zkSNARK Gnark **High**](https://ectario.github.io/articles/gnark-classic-glv-soundness/) ·
-[CVE-2026-41648](https://github.com/lxc/incus/security/advisories/GHSA-67wx-r9xr-x75x) ·
-[CVE-2026-41684](https://github.com/lxc/incus/security/advisories/GHSA-x5r6-jr56-89pv) ·
-[CVE-2026-41647](https://github.com/lxc/incus/security/advisories/GHSA-fwj8-62r8-8p8m) ·
-[Anza / Agave critical](https://ectario.github.io/articles/agave-poseidon-syscall/) ·
-Immunefi BBH
+
+· [Anza / Agave SVM syscall issue (**Critical**)](https://ectario.github.io/articles/agave-poseidon-syscall/) /
+· [Gnark classic-GLV soundness failure (**High**)](https://ectario.github.io/articles/gnark-classic-glv-soundness/) /
+·[CVE-2026-41648](https://github.com/lxc/incus/security/advisories/GHSA-67wx-r9xr-x75x) /
+·[CVE-2026-41684](https://github.com/lxc/incus/security/advisories/GHSA-x5r6-jr56-89pv) /
+·[CVE-2026-41647](https://github.com/lxc/incus/security/advisories/GHSA-fwj8-62r8-8p8m) /
+· Immunefi BBH
 
 **OSS & Tooling**  
 [Foundry](https://github.com/foundry-rs/foundry/commit/d72d14bedcf413d77f321c36090a76642f85e0af) ·
