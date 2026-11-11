@@ -15,11 +15,11 @@ Jumping in with Valgrind for CTFs when time allows (focus blockchain & crypto). 
 
 **Security**  
 
-· [Anza / Agave SVM syscall issue (**Critical**)](https://ectario.github.io/articles/agave-poseidon-syscall/) /
-· [Gnark classic-GLV soundness failure (**High**)](https://ectario.github.io/articles/gnark-classic-glv-soundness/) /
-·[CVE-2026-41648](https://github.com/lxc/incus/security/advisories/GHSA-67wx-r9xr-x75x) /
-·[CVE-2026-41684](https://github.com/lxc/incus/security/advisories/GHSA-x5r6-jr56-89pv) /
-·[CVE-2026-41647](https://github.com/lxc/incus/security/advisories/GHSA-fwj8-62r8-8p8m) /
+· [Anza / Agave SVM syscall issue (**Critical**)](https://ectario.github.io/articles/agave-poseidon-syscall/) \
+· [Gnark classic-GLV soundness failure (**High**)](https://ectario.github.io/articles/gnark-classic-glv-soundness/) \
+·[CVE-2026-41648](https://github.com/lxc/incus/security/advisories/GHSA-67wx-r9xr-x75x) \
+·[CVE-2026-41684](https://github.com/lxc/incus/security/advisories/GHSA-x5r6-jr56-89pv) \
+·[CVE-2026-41647](https://github.com/lxc/incus/security/advisories/GHSA-fwj8-62r8-8p8m) \
 · Immunefi BBH
 
 **OSS & Tooling**  
